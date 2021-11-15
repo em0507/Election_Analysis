@@ -18,4 +18,6 @@ Charles Casper Stockham: 23.0% (85,213);
 Diana DeGette: 73.8% (272,892);
 Raymon Anthony Doane: 3.1% (11,606)
 
+### <li> Diana DeGette won the election and her vote count was 272,892 and her percentage of the total votes was 73.8% </li>
+
 ## Election-Audit Summary
