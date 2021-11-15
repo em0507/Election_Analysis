@@ -10,3 +10,4 @@ Here is a breakdown of the county Votes:
 Jefferson: 10.5% (38,855) 
 Denver: 82.8% (306,055) 
 Arapahoe: 6.7% (24,801) 
+##Election-Audit Summary
