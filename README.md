@@ -2,7 +2,7 @@
 
 ## Overview:
 
-The purpose of this election audit is to find out who the winning candidate is as well as the largest county voter turnout.
+### The purpose of this election audit is to find out who the winning candidate is as well as the largest county voter turnout.
 
 ## Election-Audit Results
 ### <li>There were a total of 369,711 votes were cast in this congressional election.</li>
@@ -22,4 +22,4 @@ Raymon Anthony Doane: 3.1% (11,606)
 
 ## Election-Audit Summary
 ### examples of how this script can be modified to be used for other elections.
-<li> If there were infomation on voter's gender provided, we can also know the voter's vote rate and perference based on their gender. </li>
+### <li> If there were infomation on voter's gender provided, we can also know the voter's vote rate and perference based on their gender. </li>
