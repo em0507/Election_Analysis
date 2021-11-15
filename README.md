@@ -22,4 +22,4 @@ Raymon Anthony Doane: 3.1% (11,606)
 
 ## Election-Audit Summary
 ### examples of how this script can be modified to be used for other elections.
-<li> Denver has the largest number of votes.</li>
+<li> If there were infomation on voter's gender provided, we can also know the voter's vote rate and perference based on their gender. </li>
